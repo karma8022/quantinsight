@@ -1,0 +1,13 @@
+Requirements :
+Tells me the performance mutual funds I have invested in (1,3,5,10 years)
+Tells me the performance compared to a benchmark (1,3,5,10 years)
+Tells me the best mutual funds right now (top 10)
+Tells me the holdings of my investments 
+Tells me the holdings of top 10 
+Tells me the common holdings of the top 10 
+Tells me the fund managers of my investments 
+Tells me the fund managers of the top 10 
+Tells me the previous funds they managed and the performace of those funds 
+Tells me the Sectors the top 10 invest in and how often are those sectors invested in the top 10 mutual funds 
+Tells me the performance of the funds during bull and bear market
+
